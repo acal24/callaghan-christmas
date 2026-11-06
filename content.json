@@ -1,0 +1,113 @@
+{
+  "title": "Christmas Past",
+  "intro": "A few moments from our family Christmases.",
+  "quote": "The best part of Christmas has always been who's around the table.",
+  "memories": [
+    {
+      "id": "table",
+      "image": "assets/optimized/table-full.webp",
+      "title": "A seat at our table",
+      "alt": "The family Christmas table set with gold plates, crystal glasses and Christmas crackers, with AJ in a Santa hat beside the tree.",
+      "featured": true,
+      "edge": "deckle",
+      "thumbnail": "assets/optimized/table-preview.webp",
+      "previewWidth": 640,
+      "previewHeight": 480
+    },
+    {
+      "id": "santa",
+      "image": "assets/optimized/santa-full.webp",
+      "title": "A little Christmas mischief",
+      "alt": "Santa smiling as he holds a laughing AJ upside down across his lap.",
+      "edge": "scalloped",
+      "thumbnail": "assets/optimized/santa-preview.webp",
+      "previewWidth": 547,
+      "previewHeight": 820
+    },
+    {
+      "id": "sweaters",
+      "image": "assets/optimized/sweaters-full.webp",
+      "title": "Christmas sweaters, all together",
+      "alt": "A large family group gathered in Christmas sweaters, with Roger among them.",
+      "landscape": true,
+      "edge": "straight",
+      "thumbnail": "assets/optimized/sweaters-preview.webp",
+      "previewWidth": 640,
+      "previewHeight": 438
+    },
+    {
+      "id": "winter",
+      "image": "assets/optimized/winter-full.webp",
+      "title": "A little winter wonder",
+      "alt": "AJ with his arms raised in front of a towering outdoor Christmas tree in a snowy scene.",
+      "edge": "rounded",
+      "thumbnail": "assets/optimized/winter-preview.webp",
+      "previewWidth": 547,
+      "previewHeight": 820
+    },
+    {
+      "id": "toast",
+      "image": "assets/optimized/toast-full.webp",
+      "title": "A Christmas toast",
+      "alt": "Family members gathered around the Christmas dinner table, raising their glasses together, with AJ smiling in the foreground.",
+      "landscape": true,
+      "edge": "deckle",
+      "thumbnail": "assets/optimized/toast-preview.webp",
+      "previewWidth": 640,
+      "previewHeight": 480
+    },
+    {
+      "id": "decorating",
+      "image": "assets/optimized/decorating-full.webp",
+      "title": "Trimming the tree",
+      "alt": "AJ and an older family member hanging an ornament on the Christmas tree together.",
+      "edge": "scalloped",
+      "thumbnail": "assets/optimized/decorating-preview.webp",
+      "previewWidth": 615,
+      "previewHeight": 820
+    },
+    {
+      "id": "dinner",
+      "image": "assets/optimized/dinner-full.webp",
+      "title": "Christmas dinner, together",
+      "alt": "The family gathered around the Christmas dinner table, smiling toward the camera, with AJ in a Santa hat in the foreground.",
+      "landscape": true,
+      "edge": "rounded",
+      "thumbnail": "assets/optimized/dinner-preview.webp",
+      "previewWidth": 640,
+      "previewHeight": 480
+    },
+    {
+      "id": "morning",
+      "image": "assets/optimized/morning-full.webp",
+      "title": "Christmas morning, together",
+      "alt": "Andrew, Cait, AJ and another family member smiling together in matching holiday clothes beside Christmas gifts.",
+      "landscape": true,
+      "edge": "rounded",
+      "thumbnail": "assets/optimized/morning-preview.webp",
+      "previewWidth": 640,
+      "previewHeight": 480
+    },
+    {
+      "id": "plaid",
+      "image": "assets/optimized/plaid-full.webp",
+      "title": "Matching Christmas plaid",
+      "alt": "Cait holding baby AJ beside the Christmas tree, both wearing matching red and black plaid.",
+      "edge": "scalloped",
+      "thumbnail": "assets/optimized/plaid-preview.webp",
+      "previewWidth": 615,
+      "previewHeight": 820
+    },
+    {
+      "id": "roger",
+      "image": "assets/optimized/roger-full.webp",
+      "title": "Roger by the tree",
+      "alt": "Roger resting on the sofa beside the lit Christmas tree, wearing a red and black plaid bandana.",
+      "landscape": true,
+      "edge": "straight",
+      "thumbnail": "assets/optimized/roger-preview.webp",
+      "previewWidth": 640,
+      "previewHeight": 480
+    }
+  ]
+}
